@@ -10,3 +10,9 @@ Technologies:
 Future:
 - ESP32 integration
 - Federated learning
+## Features
+
+- Edge AI anomaly detection
+- FastAPI inference server
+- IoT device simulator
+- Real-time predictions
